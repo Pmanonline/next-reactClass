@@ -1,0 +1,94 @@
+{
+  "CardDetails": [
+    {
+      "id": 1,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 5,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 6,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 7,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 8,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 9,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    },
+    {
+      "id": 10,
+      "image": "",
+      "title": "",
+      "bodyText": "",
+      "rating": "",
+      "price": "",
+      "link": ""
+    }
+  ]
+}

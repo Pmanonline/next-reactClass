@@ -1,0 +1,27 @@
+{
+  "CardDetails": [
+    {
+      "id": 1,
+      "paragragh": "When you need to move money quickly and securely, a wire transfer can get the job done. very easy.",
+      "title": "Send Money"
+    },
+
+    {
+      "id": 2,
+      "paragragh": "set yourself a better future and start making betters choices,  building wealth takes time.",
+      "title": "Savings"
+    },
+
+    {
+      "id": 3,
+      "paragragh": "set yourself a better future and start making betters choices,  building wealth takes time.",
+      "title": "Pay Bills"
+    },
+
+    {
+      "id": 4,
+      "paragragh": "get funded within 24hrs. we say yes when banks say no. lowest rate and all classes.",
+      "title": "Get Loans"
+    }
+  ]
+}

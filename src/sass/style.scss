@@ -1,0 +1,11 @@
+@use "./color";
+@use "./font";
+
+// @use "./components/button" as;
+
+// @use "./components/navbar";
+.NavbarForm {
+  width: 50rem;
+  color: red;
+  background-color: black;
+}
