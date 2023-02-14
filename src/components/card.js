@@ -1,42 +1,42 @@
-import React from "react";
-import { ReadMore } from "./buttons";
-import DataList from "../data.json";
+import CardContent from "../Data/Card.json";
 
-const Card = () => {
-  return (
-    <div className="container">
-      <div className="row">
-        {DataList.CardDetails.map((OneCard) => {
-          return (
-            <div className="col-6" key={OneCard.id}>
-              <SingleCard {...OneCard} />
-            </div>
-          );
-        })}
-      </div>
-    </div>
-  );
-};
+// export const Card = (props) => {
+//   const{image, tittle, bodyText, rating, price, link}=props
 
-const SingleCard = (props) => {
-  const { image, paragragh, title } = props;
+export const Card = (props) => {
+  const { image, tittle, bodyText, rating, price, link } = props;
   return (
     <>
-      <div className="card card1 me-5">
-        <div className="row">
-          <div className="col-7">
-            <img src={""} className="card-img" alt="" />
-          </div>
-          <div className="col-5">
-            <p className="cardp text-start p-1">{paragragh}</p>
-
-            <ReadMore />
-          </div>
+      <div class="card">
+        <img src={image} class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">{tittle}</h5>
+          <p class="card-text">{bodyText}</p>
+          <p>{rating}</p>
+          <p>{price}</p>
+          <a href="#" class="btn btn-primary">
+            {link}
+          </a>
         </div>
-        <h3 className="cardh3 text-center">{title}</h3>
       </div>
     </>
   );
 };
 
-export default Card;
+export const CardMapping = () => {
+  return (
+    <>
+      <div className="row">
+        {CardContent.CardDetails.map((Carditem) => {
+          return (
+            <>
+              <div className="col-lg-3 col-md-4 col-sm-12" key={Carditem.id}>
+                <Card {...Carditem} />
+              </div>
+            </>
+          );
+        })}
+      </div>
+    </>
+  );
+};

@@ -1,8 +1,8 @@
 const Navbar = () => {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light NavbarForm">
-        <div class="container-fluid NavbarForm">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+        <div class="container-fluid ">
           <a class="navbar-brand fw-bold fs-3" href="#">
             Udemy
           </a>

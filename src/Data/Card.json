@@ -2,93 +2,93 @@
   "CardDetails": [
     {
       "id": 1,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage1.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 2,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage2.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 3,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage3.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 4,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage4.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 5,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage5.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 6,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage6.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 7,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage7.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 8,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage8.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 9,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage9.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     },
     {
       "id": 10,
-      "image": "",
-      "title": "",
-      "bodyText": "",
-      "rating": "",
-      "price": "",
-      "link": ""
+      "image": "./images/cardimage10.jpg",
+      "title": "learn frontend & backend",
+      "bodyText": " learn frontend and backend in less than 2weeks",
+      "rating": "5star",
+      "price": "$500",
+      "link": "www.w3schools.com"
     }
   ]
 }

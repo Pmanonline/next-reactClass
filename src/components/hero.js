@@ -1,15 +1,32 @@
 import React from "react";
+import cardimage1 from "../images/saves.jpg";
+import cardimage2 from "../images/sendmoney.jpg";
 
 function Hero() {
   return (
     <div className="container-fluid">
-      <img
-        className="img-fluid"
-        width="1340"
-        height="400"
-        alt=""
-        src="https://img-c.udemycdn.com/notices/web_banner/slide_1_image_udlite/db24b94e-d190-4d5a-b1dd-958f702cc8f5.jpg"
-      ></img>
+      <>
+        <div className="d-lg-none d-md-none d-sm-block d-xs-block">
+          <img
+            className="img-fluid"
+            width="1340"
+            height="400"
+            src={cardimage2}
+            class="card-img-top w-100"
+            alt="..."
+          />
+        </div>
+        <div className="d-none d-lg-block d-md-block">
+          <img
+            className="img-fluid"
+            width="1340"
+            height="400"
+            src={cardimage1}
+            class="card-img-top w-100"
+            alt="..."
+          />
+        </div>
+      </>
     </div>
   );
 }
